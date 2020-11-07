@@ -1,1 +1,0 @@
-# tách nền bằng cách trừ 2 ma trận
